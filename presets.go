@@ -1,11 +1,3 @@
-// Package presets contains opinionated builders for common cookie types.
-// These thin wrappers sit on top of Manager and preconfigure secure,
-// standards-compliant flags for typical scenarios: essential session cookies,
-// analytics cookies, and third-party/marketing cookies.
-//
-// All builders are stdlib-only, composable, and safe to use across
-// handlers. Prefer these when you want consistent, low-boilerplate
-// cookie handling without footguns.
 package cookie
 
 import (
