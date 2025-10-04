@@ -5,7 +5,7 @@ Safe, ergonomic helpers for creating, writing, and reading HTTP cookies in Go.
 ## Install
 
 ```bash
-go get github.com/aatuh/cookie
+go get github.com/aatuh/cookie/v2
 ```
 
 ## Features
